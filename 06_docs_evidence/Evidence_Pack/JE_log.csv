@@ -1,6 +1,0 @@
-﻿JE_ID,Date,Entity,Account,Debit,Credit,Description,Preparer,Reviewer,EvidenceRef,Status
-JE-2025-10-001,45688,ENT01,640000,1200,0,Accrual: payroll estimate,Bryan,Reviewer1,06_docs_evidence/JE/JE-2025-10-001/,Draft
-JE-2025-10-002,45688,ENT01,629000,300,0,Prepayment amortization,Bryan,Reviewer1,06_docs_evidence/JE/JE-2025-10-002/,Draft
-JE-2025-10-003,45688,ENT01,621000,0,200,Reclass: misc to G&A,Bryan,Reviewer1,06_docs_evidence/JE/JE-2025-10-003/,Draft
-JE-2025-10-004,45688,ENT01,668000,150,0,FX revaluation (concept),Bryan,Reviewer1,06_docs_evidence/JE/JE-2025-10-004/,Draft
-JE-2025-10-005,45688,ENT01,626000,10,0,Bank fee monthly charge,Bryan,Reviewer1,06_docs_evidence/JE/JE-2025-10-005/,Draft
